@@ -1,0 +1,6 @@
+{
+  "name": "GigTune",
+  "description": "An application for musicians to create profiles, showcase their expertise, and connect with others. Users can filter by instrument and genre to find collaborators for their next gig.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
